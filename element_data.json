@@ -1,548 +1,548 @@
 {
     "H": {
-        "cid": 783,
-        "molecular_weight": "2.016",
-        "molecular_formula": "H2"
+        "name": "H",
+        "molecularWeight": "2.016",
+        "molecularFormula": "H2"
     },
     "He": {
-        "cid": 23987,
-        "molecular_weight": "4.00260",
-        "molecular_formula": "He"
+        "name": "He",
+        "molecularWeight": "4.00260",
+        "molecularFormula": "He"
     },
     "Li": {
-        "cid": 3028194,
-        "molecular_weight": "7.0",
-        "molecular_formula": "Li"
+        "name": "Li",
+        "molecularWeight": "7.0",
+        "molecularFormula": "Li"
     },
     "Be": {
-        "cid": 5460467,
-        "molecular_weight": "9.012183",
-        "molecular_formula": "Be"
+        "name": "Be",
+        "molecularWeight": "9.012183",
+        "molecularFormula": "Be"
     },
     "B": {
-        "cid": 5462311,
-        "molecular_weight": "10.81",
-        "molecular_formula": "B"
+        "name": "B",
+        "molecularWeight": "10.81",
+        "molecularFormula": "B"
     },
     "C": {
-        "cid": 5462310,
-        "molecular_weight": "12.011",
-        "molecular_formula": "C"
+        "name": "C",
+        "molecularWeight": "12.011",
+        "molecularFormula": "C"
     },
     "N": {
-        "cid": 947,
-        "molecular_weight": "28.014",
-        "molecular_formula": "N2"
+        "name": "N",
+        "molecularWeight": "28.014",
+        "molecularFormula": "N2"
     },
     "O": {
-        "cid": 977,
-        "molecular_weight": "31.999",
-        "molecular_formula": "O2"
+        "name": "O",
+        "molecularWeight": "31.999",
+        "molecularFormula": "O2"
     },
     "F": {
-        "cid": 24524,
-        "molecular_weight": "37.99680632",
-        "molecular_formula": "F2"
+        "name": "F",
+        "molecularWeight": "37.99680632",
+        "molecularFormula": "F2"
     },
     "Ne": {
-        "cid": 23935,
-        "molecular_weight": "20.180",
-        "molecular_formula": "Ne"
+        "name": "Ne",
+        "molecularWeight": "20.180",
+        "molecularFormula": "Ne"
     },
     "Na": {
-        "cid": 5360545,
-        "molecular_weight": "22.9897693",
-        "molecular_formula": "Na"
+        "name": "Na",
+        "molecularWeight": "22.9897693",
+        "molecularFormula": "Na"
     },
     "Mg": {
-        "cid": 5462224,
-        "molecular_weight": "24.305",
-        "molecular_formula": "Mg"
+        "name": "Mg",
+        "molecularWeight": "24.305",
+        "molecularFormula": "Mg"
     },
     "Al": {
-        "cid": 5359268,
-        "molecular_weight": "26.981538",
-        "molecular_formula": "Al"
+        "name": "Al",
+        "molecularWeight": "26.981538",
+        "molecularFormula": "Al"
     },
     "Si": {
-        "cid": 5461123,
-        "molecular_weight": "28.085",
-        "molecular_formula": "Si"
+        "name": "Si",
+        "molecularWeight": "28.085",
+        "molecularFormula": "Si"
     },
     "P": {
-        "cid": 5462309,
-        "molecular_weight": "30.97376200",
-        "molecular_formula": "P"
+        "name": "P",
+        "molecularWeight": "30.97376200",
+        "molecularFormula": "P"
     },
     "S": {
-        "cid": 5362487,
-        "molecular_weight": "32.07",
-        "molecular_formula": "S"
+        "name": "S",
+        "molecularWeight": "32.07",
+        "molecularFormula": "S"
     },
     "Cl": {
-        "cid": 24526,
-        "molecular_weight": "70.90",
-        "molecular_formula": "Cl2"
+        "name": "Cl",
+        "molecularWeight": "70.90",
+        "molecularFormula": "Cl2"
     },
     "Ar": {
-        "cid": 23968,
-        "molecular_weight": "39.9",
-        "molecular_formula": "Ar"
+        "name": "Ar",
+        "molecularWeight": "39.9",
+        "molecularFormula": "Ar"
     },
     "K": {
-        "cid": 5462222,
-        "molecular_weight": "39.0983",
-        "molecular_formula": "K"
+        "name": "K",
+        "molecularWeight": "39.0983",
+        "molecularFormula": "K"
     },
     "Ca": {
-        "cid": 5460341,
-        "molecular_weight": "40.08",
-        "molecular_formula": "Ca"
+        "name": "Ca",
+        "molecularWeight": "40.08",
+        "molecularFormula": "Ca"
     },
     "Sc": {
-        "cid": 23952,
-        "molecular_weight": "44.95591",
-        "molecular_formula": "Sc"
+        "name": "Sc",
+        "molecularWeight": "44.95591",
+        "molecularFormula": "Sc"
     },
     "Ti": {
-        "cid": 23963,
-        "molecular_weight": "47.867",
-        "molecular_formula": "Ti"
+        "name": "Ti",
+        "molecularWeight": "47.867",
+        "molecularFormula": "Ti"
     },
     "V": {
-        "cid": 23990,
-        "molecular_weight": "50.9415",
-        "molecular_formula": "V"
+        "name": "V",
+        "molecularWeight": "50.9415",
+        "molecularFormula": "V"
     },
     "Cr": {
-        "cid": 23976,
-        "molecular_weight": "51.996",
-        "molecular_formula": "Cr"
+        "name": "Cr",
+        "molecularWeight": "51.996",
+        "molecularFormula": "Cr"
     },
     "Mn": {
-        "cid": 23930,
-        "molecular_weight": "54.93804",
-        "molecular_formula": "Mn"
+        "name": "Mn",
+        "molecularWeight": "54.93804",
+        "molecularFormula": "Mn"
     },
     "Fe": {
-        "cid": 23925,
-        "molecular_weight": "55.84",
-        "molecular_formula": "Fe"
+        "name": "Fe",
+        "molecularWeight": "55.84",
+        "molecularFormula": "Fe"
     },
     "Co": {
-        "cid": 104730,
-        "molecular_weight": "58.93319",
-        "molecular_formula": "Co"
+        "name": "Co",
+        "molecularWeight": "58.93319",
+        "molecularFormula": "Co"
     },
     "Ni": {
-        "cid": 935,
-        "molecular_weight": "58.693",
-        "molecular_formula": "Ni"
+        "name": "Ni",
+        "molecularWeight": "58.693",
+        "molecularFormula": "Ni"
     },
     "Cu": {
-        "cid": 23978,
-        "molecular_weight": "63.55",
-        "molecular_formula": "Cu"
+        "name": "Cu",
+        "molecularWeight": "63.55",
+        "molecularFormula": "Cu"
     },
     "Zn": {
-        "cid": 23994,
-        "molecular_weight": "65.4",
-        "molecular_formula": "Zn"
+        "name": "Zn",
+        "molecularWeight": "65.4",
+        "molecularFormula": "Zn"
     },
     "Ga": {
-        "cid": 5360835,
-        "molecular_weight": "69.723",
-        "molecular_formula": "Ga"
+        "name": "Ga",
+        "molecularWeight": "69.723",
+        "molecularFormula": "Ga"
     },
     "Ge": {
-        "cid": 6326954,
-        "molecular_weight": "72.63",
-        "molecular_formula": "Ge"
+        "name": "Ge",
+        "molecularWeight": "72.63",
+        "molecularFormula": "Ge"
     },
     "As": {
-        "cid": 5359596,
-        "molecular_weight": "74.92159",
-        "molecular_formula": "As"
+        "name": "As",
+        "molecularWeight": "74.92159",
+        "molecularFormula": "As"
     },
     "Se": {
-        "cid": 6326970,
-        "molecular_weight": "78.97",
-        "molecular_formula": "Se"
+        "name": "Se",
+        "molecularWeight": "78.97",
+        "molecularFormula": "Se"
     },
     "Br": {
-        "cid": 24408,
-        "molecular_weight": "159.81",
-        "molecular_formula": "Br2"
+        "name": "Br",
+        "molecularWeight": "159.81",
+        "molecularFormula": "Br2"
     },
     "Kr": {
-        "cid": 5416,
-        "molecular_weight": "83.80",
-        "molecular_formula": "Kr"
+        "name": "Kr",
+        "molecularWeight": "83.80",
+        "molecularFormula": "Kr"
     },
     "Rb": {
-        "cid": 5357696,
-        "molecular_weight": "85.468",
-        "molecular_formula": "Rb"
+        "name": "Rb",
+        "molecularWeight": "85.468",
+        "molecularFormula": "Rb"
     },
     "Sr": {
-        "cid": 5359327,
-        "molecular_weight": "87.62",
-        "molecular_formula": "Sr"
+        "name": "Sr",
+        "molecularWeight": "87.62",
+        "molecularFormula": "Sr"
     },
     "Y": {
-        "cid": 23993,
-        "molecular_weight": "88.90584",
-        "molecular_formula": "Y"
+        "name": "Y",
+        "molecularWeight": "88.90584",
+        "molecularFormula": "Y"
     },
     "Zr": {
-        "cid": 23995,
-        "molecular_weight": "91.22",
-        "molecular_formula": "Zr"
+        "name": "Zr",
+        "molecularWeight": "91.22",
+        "molecularFormula": "Zr"
     },
     "Nb": {
-        "cid": 23936,
-        "molecular_weight": "92.90637",
-        "molecular_formula": "Nb"
+        "name": "Nb",
+        "molecularWeight": "92.90637",
+        "molecularFormula": "Nb"
     },
     "Mo": {
-        "cid": 23932,
-        "molecular_weight": "95.95",
-        "molecular_formula": "Mo"
+        "name": "Mo",
+        "molecularWeight": "95.95",
+        "molecularFormula": "Mo"
     },
     "Tc": {
-        "cid": 23957,
-        "molecular_weight": "96.90636",
-        "molecular_formula": "Tc"
+        "name": "Tc",
+        "molecularWeight": "96.90636",
+        "molecularFormula": "Tc"
     },
     "Ru": {
-        "cid": 23950,
-        "molecular_weight": "101.1",
-        "molecular_formula": "Ru"
+        "name": "Ru",
+        "molecularWeight": "101.1",
+        "molecularFormula": "Ru"
     },
     "Rh": {
-        "cid": 23948,
-        "molecular_weight": "102.9055",
-        "molecular_formula": "Rh"
+        "name": "Rh",
+        "molecularWeight": "102.9055",
+        "molecularFormula": "Rh"
     },
     "Pd": {
-        "cid": 23938,
-        "molecular_weight": "106.42",
-        "molecular_formula": "Pd"
+        "name": "Pd",
+        "molecularWeight": "106.42",
+        "molecularFormula": "Pd"
     },
     "Ag": {
-        "cid": 23954,
-        "molecular_weight": "107.868",
-        "molecular_formula": "Ag"
+        "name": "Ag",
+        "molecularWeight": "107.868",
+        "molecularFormula": "Ag"
     },
     "Cd": {
-        "cid": 23973,
-        "molecular_weight": "112.41",
-        "molecular_formula": "Cd"
+        "name": "Cd",
+        "molecularWeight": "112.41",
+        "molecularFormula": "Cd"
     },
     "In": {
-        "cid": 5359967,
-        "molecular_weight": "114.818",
-        "molecular_formula": "In"
+        "name": "In",
+        "molecularWeight": "114.818",
+        "molecularFormula": "In"
     },
     "Sn": {
-        "cid": 5352426,
-        "molecular_weight": "118.71",
-        "molecular_formula": "Sn"
+        "name": "Sn",
+        "molecularWeight": "118.71",
+        "molecularFormula": "Sn"
     },
     "Sb": {
-        "cid": 5354495,
-        "molecular_weight": "121.760",
-        "molecular_formula": "Sb"
+        "name": "Sb",
+        "molecularWeight": "121.760",
+        "molecularFormula": "Sb"
     },
     "Te": {
-        "cid": 6327182,
-        "molecular_weight": "127.6",
-        "molecular_formula": "Te"
+        "name": "Te",
+        "molecularWeight": "127.6",
+        "molecularFormula": "Te"
     },
     "I": {
-        "cid": 807,
-        "molecular_weight": "253.8089",
-        "molecular_formula": "I2"
+        "name": "I",
+        "molecularWeight": "253.8089",
+        "molecularFormula": "I2"
     },
     "Xe": {
-        "cid": 23991,
-        "molecular_weight": "131.29",
-        "molecular_formula": "Xe"
+        "name": "Xe",
+        "molecularWeight": "131.29",
+        "molecularFormula": "Xe"
     },
     "Cs": {
-        "cid": 5354618,
-        "molecular_weight": "132.9054520",
-        "molecular_formula": "Cs"
+        "name": "Cs",
+        "molecularWeight": "132.9054520",
+        "molecularFormula": "Cs"
     },
     "Ba": {
-        "cid": 5355457,
-        "molecular_weight": "137.33",
-        "molecular_formula": "Ba"
+        "name": "Ba",
+        "molecularWeight": "137.33",
+        "molecularFormula": "Ba"
     },
     "La": {
-        "cid": 23926,
-        "molecular_weight": "138.9055",
-        "molecular_formula": "La"
+        "name": "La",
+        "molecularWeight": "138.9055",
+        "molecularFormula": "La"
     },
     "Ce": {
-        "cid": 23974,
-        "molecular_weight": "140.116",
-        "molecular_formula": "Ce"
+        "name": "Ce",
+        "molecularWeight": "140.116",
+        "molecularFormula": "Ce"
     },
     "Pr": {
-        "cid": 23942,
-        "molecular_weight": "140.90766",
-        "molecular_formula": "Pr"
+        "name": "Pr",
+        "molecularWeight": "140.90766",
+        "molecularFormula": "Pr"
     },
     "Nd": {
-        "cid": 23934,
-        "molecular_weight": "144.24",
-        "molecular_formula": "Nd"
+        "name": "Nd",
+        "molecularWeight": "144.24",
+        "molecularFormula": "Nd"
     },
     "Pm": {
-        "cid": 23944,
-        "molecular_weight": "144.91276",
-        "molecular_formula": "Pm"
+        "name": "Pm",
+        "molecularWeight": "144.91276",
+        "molecularFormula": "Pm"
     },
     "Sm": {
-        "cid": 23951,
-        "molecular_weight": "150.4",
-        "molecular_formula": "Sm"
+        "name": "Sm",
+        "molecularWeight": "150.4",
+        "molecularFormula": "Sm"
     },
     "Eu": {
-        "cid": 23981,
-        "molecular_weight": "151.964",
-        "molecular_formula": "Eu"
+        "name": "Eu",
+        "molecularWeight": "151.964",
+        "molecularFormula": "Eu"
     },
     "Gd": {
-        "cid": 23982,
-        "molecular_weight": "157.25",
-        "molecular_formula": "Gd"
+        "name": "Gd",
+        "molecularWeight": "157.25",
+        "molecularFormula": "Gd"
     },
     "Tb": {
-        "cid": 23958,
-        "molecular_weight": "158.92535",
-        "molecular_formula": "Tb"
+        "name": "Tb",
+        "molecularWeight": "158.92535",
+        "molecularFormula": "Tb"
     },
     "Dy": {
-        "cid": 23912,
-        "molecular_weight": "162.500",
-        "molecular_formula": "Dy"
+        "name": "Dy",
+        "molecularWeight": "162.500",
+        "molecularFormula": "Dy"
     },
     "Ho": {
-        "cid": 23988,
-        "molecular_weight": "164.93033",
-        "molecular_formula": "Ho"
+        "name": "Ho",
+        "molecularWeight": "164.93033",
+        "molecularFormula": "Ho"
     },
     "Er": {
-        "cid": 23980,
-        "molecular_weight": "167.26",
-        "molecular_formula": "Er"
+        "name": "Er",
+        "molecularWeight": "167.26",
+        "molecularFormula": "Er"
     },
     "Tm": {
-        "cid": 23961,
-        "molecular_weight": "168.93422",
-        "molecular_formula": "Tm"
+        "name": "Tm",
+        "molecularWeight": "168.93422",
+        "molecularFormula": "Tm"
     },
     "Yb": {
-        "cid": 23992,
-        "molecular_weight": "173.05",
-        "molecular_formula": "Yb"
+        "name": "Yb",
+        "molecularWeight": "173.05",
+        "molecularFormula": "Yb"
     },
     "Lu": {
-        "cid": 23929,
-        "molecular_weight": "174.9667",
-        "molecular_formula": "Lu"
+        "name": "Lu",
+        "molecularWeight": "174.9667",
+        "molecularFormula": "Lu"
     },
     "Hf": {
-        "cid": 23986,
-        "molecular_weight": "178.49",
-        "molecular_formula": "Hf"
+        "name": "Hf",
+        "molecularWeight": "178.49",
+        "molecularFormula": "Hf"
     },
     "Ta": {
-        "cid": 23956,
-        "molecular_weight": "180.9479",
-        "molecular_formula": "Ta"
+        "name": "Ta",
+        "molecularWeight": "180.9479",
+        "molecularFormula": "Ta"
     },
     "W": {
-        "cid": 23964,
-        "molecular_weight": "183.84",
-        "molecular_formula": "W"
+        "name": "W",
+        "molecularWeight": "183.84",
+        "molecularFormula": "W"
     },
     "Re": {
-        "cid": 23947,
-        "molecular_weight": "186.207",
-        "molecular_formula": "Re"
+        "name": "Re",
+        "molecularWeight": "186.207",
+        "molecularFormula": "Re"
     },
     "Os": {
-        "cid": 23937,
-        "molecular_weight": "190.2",
-        "molecular_formula": "Os"
+        "name": "Os",
+        "molecularWeight": "190.2",
+        "molecularFormula": "Os"
     },
     "Ir": {
-        "cid": 23924,
-        "molecular_weight": "192.22",
-        "molecular_formula": "Ir"
+        "name": "Ir",
+        "molecularWeight": "192.22",
+        "molecularFormula": "Ir"
     },
     "Pt": {
-        "cid": 23939,
-        "molecular_weight": "195.08",
-        "molecular_formula": "Pt"
+        "name": "Pt",
+        "molecularWeight": "195.08",
+        "molecularFormula": "Pt"
     },
     "Au": {
-        "cid": 23985,
-        "molecular_weight": "196.96657",
-        "molecular_formula": "Au"
+        "name": "Au",
+        "molecularWeight": "196.96657",
+        "molecularFormula": "Au"
     },
     "Hg": {
-        "cid": 23931,
-        "molecular_weight": "200.59",
-        "molecular_formula": "Hg"
+        "name": "Hg",
+        "molecularWeight": "200.59",
+        "molecularFormula": "Hg"
     },
     "Tl": {
-        "cid": 5359464,
-        "molecular_weight": "204.383",
-        "molecular_formula": "Tl"
+        "name": "Tl",
+        "molecularWeight": "204.383",
+        "molecularFormula": "Tl"
     },
     "Pb": {
-        "cid": 5352425,
-        "molecular_weight": "207",
-        "molecular_formula": "Pb"
+        "name": "Pb",
+        "molecularWeight": "207",
+        "molecularFormula": "Pb"
     },
     "Bi": {
-        "cid": 5359367,
-        "molecular_weight": "208.98040",
-        "molecular_formula": "Bi"
+        "name": "Bi",
+        "molecularWeight": "208.98040",
+        "molecularFormula": "Bi"
     },
     "Po": {
-        "cid": 6328143,
-        "molecular_weight": "208.98243",
-        "molecular_formula": "Po"
+        "name": "Po",
+        "molecularWeight": "208.98243",
+        "molecularFormula": "Po"
     },
     "At": {
-        "cid": 5460480,
-        "molecular_weight": "419.97429",
-        "molecular_formula": "At2"
+        "name": "At",
+        "molecularWeight": "419.97429",
+        "molecularFormula": "At2"
     },
     "Rn": {
-        "cid": 24857,
-        "molecular_weight": "222.01758",
-        "molecular_formula": "Rn"
+        "name": "Rn",
+        "molecularWeight": "222.01758",
+        "molecularFormula": "Rn"
     },
     "Fr": {
-        "cid": 6328145,
-        "molecular_weight": "223.01973",
-        "molecular_formula": "Fr"
+        "name": "Fr",
+        "molecularWeight": "223.01973",
+        "molecularFormula": "Fr"
     },
     "Ra": {
-        "cid": 6328144,
-        "molecular_weight": "226.02541",
-        "molecular_formula": "Ra"
+        "name": "Ra",
+        "molecularWeight": "226.02541",
+        "molecularFormula": "Ra"
     },
     "Ac": {
-        "cid": 23965,
-        "molecular_weight": "227.02775",
-        "molecular_formula": "Ac"
+        "name": "Ac",
+        "molecularWeight": "227.02775",
+        "molecularFormula": "Ac"
     },
     "Th": {
-        "cid": 23960,
-        "molecular_weight": "232.038",
-        "molecular_formula": "Th"
+        "name": "Th",
+        "molecularWeight": "232.038",
+        "molecularFormula": "Th"
     },
     "Pa": {
-        "cid": 23945,
-        "molecular_weight": "231.03588",
-        "molecular_formula": "Pa"
+        "name": "Pa",
+        "molecularWeight": "231.03588",
+        "molecularFormula": "Pa"
     },
     "U": {
-        "cid": 23989,
-        "molecular_weight": "238.0289",
-        "molecular_formula": "U"
+        "name": "U",
+        "molecularWeight": "238.0289",
+        "molecularFormula": "U"
     },
     "Np": {
-        "cid": 23933,
-        "molecular_weight": "237.048172",
-        "molecular_formula": "Np"
+        "name": "Np",
+        "molecularWeight": "237.048172",
+        "molecularFormula": "Np"
     },
     "Pu": {
-        "cid": 23940,
-        "molecular_weight": "244.06420",
-        "molecular_formula": "Pu"
+        "name": "Pu",
+        "molecularWeight": "244.06420",
+        "molecularFormula": "Pu"
     },
     "Am": {
-        "cid": 23966,
-        "molecular_weight": "243.061380",
-        "molecular_formula": "Am"
+        "name": "Am",
+        "molecularWeight": "243.061380",
+        "molecularFormula": "Am"
     },
     "Cm": {
-        "cid": 23979,
-        "molecular_weight": "247.07035",
-        "molecular_formula": "Cm"
+        "name": "Cm",
+        "molecularWeight": "247.07035",
+        "molecularFormula": "Cm"
     },
     "Bk": {
-        "cid": 23971,
-        "molecular_weight": "247.07031",
-        "molecular_formula": "Bk"
+        "name": "Bk",
+        "molecularWeight": "247.07031",
+        "molecularFormula": "Bk"
     },
     "Cf": {
-        "cid": 23997,
-        "molecular_weight": "251.07959",
-        "molecular_formula": "Cf"
+        "name": "Cf",
+        "molecularWeight": "251.07959",
+        "molecularFormula": "Cf"
     },
     "Es": {
-        "cid": 23913,
-        "molecular_weight": "252.0830",
-        "molecular_formula": "Es"
+        "name": "Es",
+        "molecularWeight": "252.0830",
+        "molecularFormula": "Es"
     },
     "Fm": {
-        "cid": 23998,
-        "molecular_weight": "257.09511",
-        "molecular_formula": "Fm"
+        "name": "Fm",
+        "molecularWeight": "257.09511",
+        "molecularFormula": "Fm"
     },
     "Md": {
-        "cid": 23943,
-        "molecular_weight": "258.09843",
-        "molecular_formula": "Md"
+        "name": "Md",
+        "molecularWeight": "258.09843",
+        "molecularFormula": "Md"
     },
     "No": {
-        "cid": 24822,
-        "molecular_weight": "259.10100",
-        "molecular_formula": "No"
+        "name": "No",
+        "molecularWeight": "259.10100",
+        "molecularFormula": "No"
     },
     "Lr": {
-        "cid": 31192,
-        "molecular_weight": "266.120",
-        "molecular_formula": "Lr"
+        "name": "Lr",
+        "molecularWeight": "266.120",
+        "molecularFormula": "Lr"
     },
     "Rf": {
-        "cid": 56951715,
-        "molecular_weight": "267.122",
-        "molecular_formula": "Rf"
+        "name": "Rf",
+        "molecularWeight": "267.122",
+        "molecularFormula": "Rf"
     },
     "Db": {
-        "cid": 56951718,
-        "molecular_weight": "268.126",
-        "molecular_formula": "Db"
+        "name": "Db",
+        "molecularWeight": "268.126",
+        "molecularFormula": "Db"
     },
     "Sg": {
-        "cid": 56951717,
-        "molecular_weight": "269.128",
-        "molecular_formula": "Sg"
+        "name": "Sg",
+        "molecularWeight": "269.128",
+        "molecularFormula": "Sg"
     },
     "Bh": {
-        "cid": 56951713,
-        "molecular_weight": "270.133",
-        "molecular_formula": "Bh"
+        "name": "Bh",
+        "molecularWeight": "270.133",
+        "molecularFormula": "Bh"
     },
     "Hs": {
-        "cid": 56951714,
-        "molecular_weight": "269.1336",
-        "molecular_formula": "Hs"
+        "name": "Hs",
+        "molecularWeight": "269.1336",
+        "molecularFormula": "Hs"
     },
     "Mt": {
-        "cid": 56951716,
-        "molecular_weight": "277.154",
-        "molecular_formula": "Mt"
+        "name": "Mt",
+        "molecularWeight": "277.154",
+        "molecularFormula": "Mt"
     },
     "Ds": null,
     "Rg": null,
@@ -550,19 +550,19 @@
     "ut": null,
     "uq": null,
     "up": {
-        "cid": 9547893,
-        "molecular_weight": "597.7",
-        "molecular_formula": "C28H51N7O7"
+        "name": "up",
+        "molecularWeight": "597.7",
+        "molecularFormula": "C28H51N7O7"
     },
     "uh": {
-        "cid": 155487961,
-        "molecular_weight": "427.5",
-        "molecular_formula": "C20H37N5O5"
+        "name": "uh",
+        "molecularWeight": "427.5",
+        "molecularFormula": "C20H37N5O5"
     },
     "us": null,
     "uo": {
-        "cid": 155487961,
-        "molecular_weight": "427.5",
-        "molecular_formula": "C20H37N5O5"
+        "name": "uo",
+        "molecularWeight": "427.5",
+        "molecularFormula": "C20H37N5O5"
     }
 }

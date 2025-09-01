@@ -123,14 +123,15 @@ def get_element_info_from_name(name):
 
     compounds = pcp.get_compounds(name, "name")
     if not compounds:
+        print("No data found for element:", name)
         return None
 
     compound = compounds[0]
 
     obj = {}
-    obj["cid"] = compound.cid
-    obj["molecular_weight"] = compound.molecular_weight
-    obj["molecular_formula"] = compound.molecular_formula
+    obj["name"] = name
+    obj["molecularWeight"] = compound.molecular_weight
+    obj["molecularFormula"] = compound.molecular_formula
 
     save_to_cache2(name, obj)
     return obj
